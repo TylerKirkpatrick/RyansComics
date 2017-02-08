@@ -1,0 +1,20 @@
+{
+  "name": "ryan_express",
+  "description": "no",
+  "main": "index.js",
+  "authors": [
+    "Tyler Kirkpatrick"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/TylerKirkpatrick/RyansComics",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
